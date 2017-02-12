@@ -4,7 +4,7 @@ sudo: required
 addons:
   sonarqube:
     token:
-      secure: "your_token_encrypted_with_travis_encrypt_tool"
+      secure: "26c7356b668aa94331cdbe5cf2762f880524d30b"
 jdk:
   - oraclejdk8
 script:
