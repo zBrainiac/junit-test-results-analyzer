@@ -27,14 +27,13 @@
     </repository>
   </repositories>
 
-  <pluginRepositories>
+    <pluginRepositories>
     <pluginRepository>
       <id>repo.jenkins-ci.org</id>
       <url>http://repo.jenkins-ci.org/public/</url>
     </pluginRepository>
   </pluginRepositories>
-
-  <build>
+    <build>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -46,7 +45,6 @@
       </plugin>
     </plugins>
   </build>
-
     <dependencies>
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>

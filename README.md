@@ -4,5 +4,5 @@
 junit-test-results-analyzer
 
 
-test travis-ci
+test travis-ci and sonarqube
 
