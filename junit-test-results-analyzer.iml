@@ -11,10 +11,18 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: org.jenkins-ci.plugins:junit:1.14" level="project" />
-    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.39" level="project" />
-    <orderEntry type="library" name="Maven: org.json:json:20140107" level="project" />
-    <orderEntry type="library" name="Maven: org.jenkins-ci.plugins:token-macro:1.10" level="project" />
-    <orderEntry type="library" name="Maven: org.jenkins-ci.plugins:matrix-project:1.4" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.40" level="project" />
+    <orderEntry type="library" name="Maven: org.json:json:20160810" level="project" />
+    <orderEntry type="library" name="Maven: org.jenkins-ci.plugins:token-macro:2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.parboiled:parboiled-java:1.1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.parboiled:parboiled-core:1.1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-tree:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-analysis:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-util:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jenkins-ci.plugins:matrix-project:1.8" level="project" />
+    <orderEntry type="library" name="Maven: org.jenkins-ci.plugins:script-security:1.13" level="project" />
+    <orderEntry type="library" name="Maven: org.kohsuke:groovy-sandbox:1.8" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.jenkins-ci.main:jenkins-war:war:1.588" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jenkins-ci.main:jenkins-core:1.588" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jenkins-ci.plugins.icon-shim:icon-set:1.0.3" level="project" />
@@ -32,11 +40,7 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.github.jnr:jnr-ffi:1.0.7" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.github.jnr:jffi:1.2.7" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.github.jnr:jffi:native:1.2.7" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm:4.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm-commons:4.0" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm-analysis:4.0" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm-tree:4.0" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm-util:4.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.github.jnr:jnr-x86asm:1.0.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.github.jnr:jnr-constants:0.8.5" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.kohsuke:trilead-putty-extension:1.2" level="project" />
